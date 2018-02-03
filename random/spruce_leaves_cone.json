@@ -1,0 +1,8 @@
+{
+    "parent": "block/leaves_sides_random",
+    "textures": {
+        "all": "blocks/leaves_spruce",
+        "random": "blocks/random/leaves_spruce_cone",
+        "tips": "blocks/leaves_spruce_bl"
+    }
+}
